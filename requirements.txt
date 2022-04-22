@@ -1,5 +1,5 @@
 git+https://github.com/openforis/earthengine-api.git@v0.1.270#egg=earthengine-api&subdirectory=python
-https://github.com/12rambau/bfast.git#egg=bfast
+git+https://github.com/12rambau/bfast.git#egg=bfast
 geopandas==0.10.2
 godale==0.3
 numpy==1.22.3
